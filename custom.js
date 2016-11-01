@@ -9,3 +9,5 @@ Acara ini sedang dilakukan
 silahkan mengikuti
 
 test123
+
+Change for exercise 3 just for testing

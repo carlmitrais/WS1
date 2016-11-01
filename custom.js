@@ -5,4 +5,4 @@ Pada tanggal 01 November 2016
 dan ini akan diikuti oleh 10 orang peserta
 dari Mitrais
 
--edited by ilhamasp-
+- edited by ilhamasp -

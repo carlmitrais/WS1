@@ -6,4 +6,4 @@ dan ini akan diikuti oleh 10 orang peserta
 dari Mitrais
 
 
-irna test for feature one
+irna test for feature two

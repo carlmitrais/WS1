@@ -7,3 +7,8 @@ dari Mitrais
 
 - exercise -
 - edited by ilhamasp -
+
+Test 2
+commit a
+commit b
+commit c

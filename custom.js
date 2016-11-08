@@ -7,3 +7,7 @@ dari Mitrais
 
 
 irna test for feature two
+
+irna test for commit 1
+irna test for commit 2
+irna test for commit 3
